@@ -1,6 +1,6 @@
 ﻿-- Script for Creating Tables in DB
 
--- To Create Table Departments with dept_no as Primary Key
+-- To Create Table departments with dept_no as Primary Key
 CREATE TABLE departments (
     dept_no VARCHAR(4) PRIMARY KEY ,
     dept_name VARCHAR(30) NOT NULL,
@@ -12,7 +12,7 @@ CREATE TABLE titles (
     title VARCHAR(30)   NOT NULL
 )
 
--- To Create Table Employees with emp_no as Primary Key
+-- To Create Table employees with emp_no as Primary Key
 -- emp_title_id as Foreign Key Reference to titles in titles Table
 CREATE TABLE employees (
     emp_no INT PRIMARY KEY,
