@@ -1,4 +1,4 @@
-# SQL
+# Analysis on Employee's data
  
 It is the research project on employees of the corporation from the 1980s and 1990s. It analyzes Employee's detail based on their department, salary, title etc. It also include ERD of the Database, Table Schema of Database Tables, Query file and jupyter file for graphical outcome of the analysis.
 
